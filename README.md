@@ -78,6 +78,7 @@ Validation Tests: Ensure that the inputs meet the expected format and constraint
 ## Built With
 
 - Hapi.js - Web framework for building APIs
+- Nodemon - Automatic server restarting during development
 
 ## Authors
 
