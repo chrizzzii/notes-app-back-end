@@ -41,7 +41,7 @@ Start the server:
 Test the API:
 
     The server will be running at http://localhost:5000.
-    You can use Postman or Insomnia to interact with the API.
+    You can use Postman to interact with the API.
 
 ## Example Usage
 
@@ -78,8 +78,6 @@ Validation Tests: Ensure that the inputs meet the expected format and constraint
 ## Built With
 
 - Hapi.js - Web framework for building APIs
-- [Creative Commons](https://creativecommons.org/) - Used to choose
-  the license
 
 ## Authors
 
