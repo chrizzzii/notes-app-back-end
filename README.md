@@ -36,7 +36,7 @@ Install the required dependencies:
 
 Start the server:
 
-    npm start
+    npm start-dev
 
 Test the API:
 
